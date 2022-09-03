@@ -1,6 +1,6 @@
 # Missao_Certifica-ao
 
-![logo](Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.001.png)
+![logo](Aspose.Words.ee9cfff1-34f1-421f-99bd-05da735065b8.001.png)
 
 **Desenvolvimento Full Stack: Mundo 1** 
 
