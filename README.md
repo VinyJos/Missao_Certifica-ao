@@ -1,6 +1,4 @@
 
-![](/Imagens_readme/Aspose.Words.74af5ccb-47d6-4ed3-984e-96ad326f513b.001.png)
-=======
 # Missao_Certifica-ao
 
 ![logo](Aspose.Words.ee9cfff1-34f1-421f-99bd-05da735065b8.001.png)
