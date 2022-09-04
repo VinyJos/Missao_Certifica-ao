@@ -1,8 +1,8 @@
 
 # Missao_Certifica-ao
 
-![logo](Aspose.Words.ee9cfff1-34f1-421f-99bd-05da735065b8.001.png)
->>>>>>> 8dfa3e5c5f5c03977005f4f5bcb8ccfb768ddb8a
+![logo](/Imagens_readme/Aspose.Words.ee9cfff1-34f1-421f-99bd-05da735065b8.001.png)
+
 
 **Desenvolvimento Full Stack: Mundo 1** 
 
@@ -98,7 +98,7 @@ ___
 =======
 Semestre 2022.1 Turma xxxxxxx 
 
-![](Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.002.png)
+![](/Imagens_readme/Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.002.png)
 
 
 
@@ -125,7 +125,7 @@ Semestre 2022.1 Turma xxxxxxx
 |João Gustavo Morielo ||Apoio no desenvolvimento do sistema (Backend, Frontend e Dados) e apoio na documentação do projeto. |
 |Raila Nascimento Sousa |202204455331 |Levantamento dos requisitos, responsável pela documentação do projeto e apoio no desenvolvimento do sistema. |
 |Vinícius José da Silva ||Desenvolvimento Frontend, realizando as atividades xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxx e apoio no desenvolvimento Backend e Dados realizando as atividades xxxxxxxxx. |
-![](Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.003.png)
+![](/Imagens_readme/Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.003.png)
 
 |*Titulo do Documento* |*Página* |
 | - | - |
@@ -181,7 +181,7 @@ O objetivo deste documento é especificar as regras e detalhar o processo de cad
 1. Responsável da Central de Ferramentas. 
 1. Técnico de Manutenção. 
 
-![](Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.004.jpeg)
+![](/Imagens_readme/Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.004.jpeg)
 
 |*Titulo do Documento* |*Página* |
 | - | - |
