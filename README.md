@@ -1,4 +1,4 @@
-
+![](/Imagens_readme/Aspose.Words.74af5ccb-47d6-4ed3-984e-96ad326f513b.001.png)
 # Missao_Certifica-ao
 
 ![logo](/Imagens_readme/Aspose.Words.ee9cfff1-34f1-421f-99bd-05da735065b8.001.png)
@@ -189,7 +189,6 @@ O objetivo deste documento é especificar as regras e detalhar o processo de cad
 |*Código* |*Revisão* |*Data* |
 |Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
 **5.  REQUISITOS FUNCIONAIS** 
->>>>>>> 8dfa3e5c5f5c03977005f4f5bcb8ccfb768ddb8a
 
 1. Cadastro de acesso 
 1. Login de usuário 
@@ -602,132 +601,4 @@ ___
 ### 11. **VÍDEO DE FUNCIONAMENTO DO SISTEMA**  
 
 [https://youtu.be/8cQTSlGRMDg](https://youtu.be/8cQTSlGRMDg)
-
-
-
-
-
-.
-___
-=======
-
-**6.  REQUISITOS NÃO FUNCIONAIS** 
-
-(todos  os  requisitos  não  funcionais  devem  ser  indicados.  ex:  quais  foram  as  escolhas realizadas que melhoraram o desempenho do programa? quais os itens de interação que melhoram a experiência do usuário com o programa - usabilidade/botões/formulário/etc) 
-
-1. Sistema multiplataforma (Windows, Linux e MacOS). 
-1. Desenvolvido na linguagem Python. 
-1. Sistema deve ser executado na IDE PyCharm ou Visual Studio Code. 
-1. A execução do sistema deve ser realizada com acesso à internet para instalação de diferentes bibliotecas. 
-1. Após instalação de bibliotecas, deve ser possível o programa funcionar no modo oflline. 
-1. Interface gráfica será desenvolvida através da biblioteca Tkinter. 
-1. Tempo máximo de 60 segundos durante processamentos. 
-1. Os dados imputados (técnico, ferramenta, agendamentos) serão salvos em arquivo CSV, integrado ao sistema. Será possível inserir, excluir, atualizar e consultar dados. 
-1. Necessária a instalação dos seguintes pacotes para a execução do sistema: tkinter,csv shutil, tempfile. 
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |7 de 5 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-7. **INPUTS** 
-
-
-
-|**Ferramentas** |**Técnico** |**Agenda** |
-| - | - | - |
-|Descrição da Ferramenta |CPF |Código |
-|Fabricante |Nome |Descrição |
-|Voltagem (110/220)|Telefone |Retirada |
-|Tamanho |Turno |Devolução |
-|Unidade de Media |Nome da equipe |Técnico |
-|Tipo de Ferramenta (manual/mecânica/grande porte)|||
-|Material da Ferramenta |||
-|Tempo Máximo da Reserva |||
-|Quantidade |||
-8. **OUTPUTS** 
-
-Os  dados  cadastrados  nos  módulos  ferramentas,  técnico  e  agenda,  serão  salvos respectivamente nos arquivos csv a seguir:** 
-
-1. ferramentas.csv 
-1. técnicos.csv 
-1. agenda.csv 
-
-As  permissões  de  consulta  dos  dados  acima  serão  disponibilizadas  para  os  usuários, conforme definido na seção 3 deste documento (Usuários e Diagrama de Caso de Uso). 
-
-**9.  FLUXOS DOS PROCESSOS** 
-
-1. **Cadastro de usuário** 
-
-Fluxo principal de sucesso 
-
-1. O sistema apresenta o formulário de cadastro de usuário; 
-1. O convidado insere os dados como nome, login, senha,xxxx; 
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |8 de 5 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-
-
-3. O convidado clica em salvar; 
-3. O sistema salva os dados no banco de dados (csv); 
-3. O sistema avisa que o cadastro foi efetuado. 
-
-Fluxo alternativo: Campo em banco 
-
-iv.  O sistema informa que há campo em branco. 
-
-Fluxo alternativo: Usuário já existente 
-
-iv.  O sistema informa que o usuário informado já está cadastrado. 
-
-2. **Login de usuário** 
-
-Fluxo principal de sucesso 
-
-1. O convidado insere os dados de usuário e senha; 
-1. O convidado clica em entrar; 
-1. O sistema direciona para a página inicial. 
-
-Fluxo alternativo: Campo em banco 
-
-iii.  O sistema informa que há campo em branco. 
-
-Fluxo alternativo: Usuário não encontrado 
-
-iii.  O sistema informa que o usuário não foi encontrado. 
-
-3. **Cadastro do técnico, com validação através do CPF.** 
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |9 de 5 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-
-
-4. **Cadastro da ferramenta, com geração de código.** 
-4. **Consulta da lista dos técnicos cadastrados.** 
-4. **Exclusão de técnico cadastrado.** 
-4. **Consulta da lista de ferramentas cadastradas.** 
-4. **Exclusão de ferramenta cadastrada.** 
-4. **Cadastro de agendamento de ferramenta, com técnico associado.** 
-4. **Consulta da lista de agendamentos.** 
-4. **Devolução de ferramenta, com exclusão na lista de agendamentos.** 
-
-
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |10 de 5 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-10. **INTERFACE GRÁFICA** 
-
-(print das telas com breve explicação) 
-
-11. **VÍDEO DE FUNCIONAMENTO DO SISTEMA** (link do youtube)** 
-![](/Imagens_readme/Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.005.png)
 
