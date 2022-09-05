@@ -1,15 +1,10 @@
 ![](/Imagens_readme/Aspose.Words.74af5ccb-47d6-4ed3-984e-96ad326f513b.001.png)
 
-
-![](/Imagens_readme/Aspose.Words.ee9cfff1-34f1-421f-99bd-05da735065b8.001.png)
-
-
-# Desenvolvimento Full Stack: Mundo 1
+**Desenvolvimento Full Stack: Mundo 1** 
 
 **Sistema de Agendamento de Ferramentas** 
 
 Especificação de Requisitos e Documento do Projeto 
-
 
 Semestre 2022.2 
 
@@ -95,100 +90,6 @@ ___
 ![](/Imagens_readme/Aspose.Words.74af5ccb-47d6-4ed3-984e-96ad326f513b.003.jpeg)
 ___
 ### **5.  REQUISITOS FUNCIONAIS** 
-=======
-Semestre 2022.1 Turma xxxxxxx 
-
-![](/Imagens_readme/Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.002.png)
-
-
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |2 de 3 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-
-
-||
-| :- |
-|**Stakeholder Principal** |
-||
-|Professor Roberto Maia (Mestre dos Magos) |
-
-
-||
-| :- |
-|**Equipe do Projeto: Grupo 1** |
-||
-|**Nome** |**Matrícula** |**Atribuições** |
-|Flávio Borges Nunes ||Desenvolvimento Backend, Dados, realizando as atividades xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxx e apoio no desenvolvimento Frontend, realizando as atividades xxxxxxxxxxxxxxx. |
-|João Gustavo Morielo ||Apoio no desenvolvimento do sistema (Backend, Frontend e Dados) e apoio na documentação do projeto. |
-|Raila Nascimento Sousa |202204455331 |Levantamento dos requisitos, responsável pela documentação do projeto e apoio no desenvolvimento do sistema. |
-|Vinícius José da Silva ||Desenvolvimento Frontend, realizando as atividades xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxx e apoio no desenvolvimento Backend e Dados realizando as atividades xxxxxxxxx. |
-![](/Imagens_readme/Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.003.png)
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |3 de 5 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-**Sumário** 
-
-1. SOBRE O PROJETO  ........................................................................................................................................................ 1 
-1. OBJETIVO DO DOCUMENTO  .......................................................................................................................................... 1 
-1. REGRAS DE NEGÓCIOS .................................................................................................................................................. 1 
-1. USUÁRIOS E DIAGRAMA DE CASO DE USO.................................................................................................................. 1 
-1. REQUISITOS FUNCIONAIS  ............................................................................................................................................. 1 
-1. REQUISITOS NÃO FUNCIONAIS  ..................................................................................................................................... 1 
-1. INPUTS  ............................................................................................................................................................................. 1 
-1. OUTPUTS  ......................................................................................................................................................................... 1 
-1. FLUXO DOS PROCESSOS  .............................................................................................................................................. 1 
-1. INTERFACE GRÁFICA  ..................................................................................................................................................... 1 
-1. VÍDEO DE FUNCIONAMENTO DO SISTEMA  .................................................................................................................. 1 
-
-
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |4 de 5 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-1. **SOBRE O PROJETO** 
-
-O projeto consiste no desenvolvimento de um Sistema de Agendamento de Ferramentas, que possibilitará aos técnicos de manutenção audiovisual, realizarem o agendamento de retirada e devolução de equipamentos. Será possível  ao responsável da central de ferramentaria realizar  a  gestão  do  sistema,  através  do  cadastro  e  consulta  de  todos  as  ferramentas existentes, consulta dos agendamentos e técnicos cadastrados. 
-
-2. **OBJETIVO DO DOCUMENTO** 
-
-O objetivo deste documento é especificar as regras e detalhar o processo de cadastro de técnico, cadastro de ferramenta, consulta de técnico, consulta de ferramenta, agendamento de ferramenta e devolução de ferramenta. 
-
-3. **REGRAS DE NEGÓCIOS** 
-1. Reserva com até 24hs de antecedência. 
-1. Central de ferramentas precisa ter ao menos 1 unidade de cada ferramenta em estoque. 
-1. As  solicitações  de  reserva  precisam  ser  enviadas  por  e-mail  para  o  responsável  da Central de Ferramentaria, com as informações do técnico responsável, ferramenta, data e hora da retirada e devolução. 
-1. Cada ferramenta precisa ter um tempo máximo permitido para reserva. 
-1. Todos os técnicos precisam ser cadastrados no sistema. 
-1. Deve ser possível excluir o cadastro de Técnico e Ferramenta quando necessário. 
-1. Reserva de ferramenta deve ficar associada ao técnico responsável pela retirada. 
-1. Deve ser possível que o responsável pela Central de Ferramentaria realize a consulta de todas as ferramentas cadastradas, técnicos e agendamentos. 
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |5 de 5 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-**4.  USUÁRIOS E DIAGRAMA DE CASO DE USO** 
-
-1. Responsável da Central de Ferramentas. 
-1. Técnico de Manutenção. 
-
-![](/Imagens_readme/Aspose.Words.9f9abab3-8257-428d-85ca-db27cd5b5774.004.jpeg)
-
-|*Titulo do Documento* |*Página* |
-| - | - |
-|**SISTEMA DE AGENDAMENTO DE FERRAMENTAS** |6 de 5 |
-|*Código* |*Revisão* |*Data* |
-|Especificação de Requisitos e Documento do Projeto\_001\_Rev.00 |0 |02/09/2022 |
-**5.  REQUISITOS FUNCIONAIS** 
 
 1. Cadastro de acesso 
 1. Login de usuário 
@@ -201,7 +102,6 @@ O objetivo deste documento é especificar as regras e detalhar o processo de cad
 1. Cadastro de agendamento de ferramenta, com técnico associado. 
 1. Consulta da lista de agendamentos. 
 1. Devolução de ferramenta, com exclusão na lista de agendamentos. 
-
 ___
 ### **6.  REQUISITOS NÃO FUNCIONAIS** 
 
@@ -602,3 +502,9 @@ ___
 
 [https://youtu.be/8cQTSlGRMDg](https://youtu.be/8cQTSlGRMDg)
 
+
+
+
+
+.
+___
